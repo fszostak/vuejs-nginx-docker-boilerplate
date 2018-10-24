@@ -1,4 +1,4 @@
-# vue-nud running on docker container
+# vuejs-nginx-docker-boilerplate running on docker container
 
 ### development environment
 
