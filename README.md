@@ -63,7 +63,7 @@ $ docker rmi vuejs-nginx-boilerplate-staging vuejs-nginx-boilerplate-production
 ```
 
 #### Learn more about Docker
-[Docker and Kubernetes: The Complete Guide] (https://www.udemy.com/share/100r9ABUMeeFtTRHQ=/)
+[Docker and Kubernetes: The Complete Guide](https://www.udemy.com/share/100r9ABUMeeFtTRHQ=/)
 
 #### Learn more about Vue.js
-[Vue JS Essentials with Vuex and Vue Router] (https://www.udemy.com/share/1007q8BUMeeFtTRHQ=/)
+[Vue JS Essentials with Vuex and Vue Router](https://www.udemy.com/share/1007q8BUMeeFtTRHQ=/)
